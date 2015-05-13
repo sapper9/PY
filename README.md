@@ -1,3 +1,3 @@
 # PY
-My Collection of PY !!
+Repository of python files
 
